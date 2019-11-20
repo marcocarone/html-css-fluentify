@@ -110,3 +110,21 @@ body {
   font-weight: 500;
   margin-bottom: 30px;
 }
+
+  /* INIZIO MAIN */
+
+.main-info {
+  text-align: center;
+  padding: 50px 0;
+  background-color: #f9f9f9;
+}
+
+.container h2 {
+  margin-bottom: 10px;
+  font-weight: 300;
+}
+
+.container h3 {
+  color: #99a2a2;
+  font-weight: 300;
+}
