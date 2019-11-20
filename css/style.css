@@ -51,12 +51,28 @@ body {
   padding: 10px;
 }
 
+.top-header-left a:hover {
+  color: #f8b71c;
+}
+
 .button {
   background-color: #7fb802;
   border-radius: 10px;
   padding: 15px 20px;
 }
 
+.button-header-uno {
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  padding: 15px 20px;
+}
+
+.button-header-due {
+  background-color: #7fb802;
+  border-radius: 10px;
+  padding: 15px 20px;
+  margin-left: 10px;
+}
 /* .top-header-right a:first-of-type {
   color: #86929a;
   font-size: 40px;
