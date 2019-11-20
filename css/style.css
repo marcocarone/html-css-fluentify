@@ -274,3 +274,19 @@ body {
   background-color: #f9f9f9;
   width: 170px;
 }
+
+.help {
+  position: fixed;
+  bottom: 0;
+  right: 5%;
+  padding: 15px 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-color: #7fb802;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.help:hover {
+  padding-bottom: 25px;
+}
